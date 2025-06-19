@@ -4,7 +4,7 @@
 {
      addonSteamAppID         550                                                     // 500 is the app ID for Left 4 Dead, 550 for Left 4 Dead 2
      addontitle              "Moscow"                                           // Add-on title that shows up in Add-ons list. ~20 chars max
-     addonversion	     4.0                                                     // Add-on version.
+     addonversion	     5.0                                                     // Add-on version.
      addontagline            "This city is full of zombies... It's about to be full of dead zombies!"	     // Add-on tagline or wrap-up- a short description. ~100 chars max
      addonauthor             "Zelet"                                                 // Name/alias of the author
      addonSteamGroupName     ""                                       // (Optional) Steam group related to the add-on. We use this to construct a URL to the group page.
