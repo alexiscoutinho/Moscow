@@ -1,0 +1,8 @@
+$modelname "propper/sky_city/moscow_carjam_skybox"
+$staticprop
+$casttextureshadows
+$origin 0 0 0 -90
+$model mesh "moscow_carjam_skybox.smd"
+$surfaceprop "metal"
+$cdmaterials "models\props_vehicles\"
+$sequence ref "moscow_carjam_skybox.smd"

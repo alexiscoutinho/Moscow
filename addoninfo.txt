@@ -1,0 +1,19 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons.
+
+"AddonInfo"
+{
+     addonSteamAppID         550                                                     // 500 is the app ID for Left 4 Dead, 550 for Left 4 Dead 2
+     addontitle              "Moscow"                                           // Add-on title that shows up in Add-ons list. ~20 chars max
+     addonversion	     3.0                                                     // Add-on version.
+     addontagline            "This city is full of zombies... It's about to be full of dead zombies!"	     // Add-on tagline or wrap-up- a short description. ~100 chars max
+     addonauthor             "Zelet"                                                 // Name/alias of the author
+     addonSteamGroupName     ""                                       // (Optional) Steam group related to the add-on. We use this to construct a URL to the group page.
+     addonauthorSteamID      "https://steamcommunity.com/profiles/76561198285624023/"                                         // (Optional) Steam ID of author. We use this to construct a URL to the author's page.
+     addonContent_Campaign   1 	                                                     //This addon provides muliple connected maps with a finale
+     addonURL0               "https://steamcommunity.com/sharedfiles/filedetails/?id=3495263752" //An html home page for the add-on that includes a download link.
+
+     // short description that appears in the Add-on list screen...
+     addonDescription        "This city is full of zombies... It's about to be full of dead zombies!"
+
+    
+}

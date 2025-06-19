@@ -1,0 +1,35 @@
+<!-- dmx encoding keyvalues2 1 format dmx 1 -->
+"DmeColorCorrectionOperatorList"
+{
+	"id" "elementid" "b6aa33d6-09b7-4538-971a-10665af3c4f2"
+	"operators" "element_array" 
+	[
+		"CDmeColorCorrectionColorBalanceOp"
+		{
+			"id" "elementid" "a80688ba-6f88-424d-bf87-4d0e919ee626"
+			"blendFactor" "float" "0.9882353544"
+			"cyanRedBalance" "float_array" 
+			[
+				"-1",
+				"-5",
+				"-10"
+			]
+			"enabled" "bool" "1"
+			"magentaGreenBalance" "float_array" 
+			[
+				"0",
+				"0",
+				"0"
+			]
+			"name" "string" "City_color_metro"
+			"preserveLuminosity" "bool" "1"
+			"yellowBlueBalance" "float_array" 
+			[
+				"5",
+				"7",
+				"3"
+			]
+		}
+	]
+}
+

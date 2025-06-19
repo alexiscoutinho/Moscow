@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"lighthouse/rusty_metal"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"		"[.7 .48 .4]"
+	"$basealphaenvmapmask"		"1"
+	"$model"		"1"
+}

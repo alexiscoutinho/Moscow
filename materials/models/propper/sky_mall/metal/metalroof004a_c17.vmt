@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalroof004a"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"0.500000"
+	"$envmapsaturation"		"0.800000"
+	"$envmaptint"		"[.48 .24 .18]"
+	"lightmappedgeneric_HDR_dx9"
+	{
+		"$envmap"		"env_cubemap"
+		"$bumpmap"		"Metal/metalroof004a_normal"
+		"$normalmapalphaenvmapmask"		"1"
+		"$envmapcontrast"		"0.800000"
+		"$envmapsaturation"		"0.800000"
+		"$envmaptint"		"[.32 .16 .12]"
+	}
+	"$model"		"1"
+}

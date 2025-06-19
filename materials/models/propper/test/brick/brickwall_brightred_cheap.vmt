@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"brick/colortintwall01"
+	"$color2"		"[.9 .55 .55]"
+	"$model"		"1"
+}

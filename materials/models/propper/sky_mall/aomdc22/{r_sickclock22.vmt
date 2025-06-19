@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"aomdc22\{r_sickclock22"
+	"$alphatest"		"1"
+	"$AlphaTestReference"		"0.500000"
+	"$model"		"1"
+}

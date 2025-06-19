@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"wood\wall02"
+	"$detail"		"detail\dt_wood1"
+	"$detailscale"		"[ 8 10 ]"
+	"$detailblendfactor"		"0.300000"
+	"$detailblendmode"		"0"
+	"$envmap"		"env_cubemap"
+	"$envmapmask"		"wood\wall02_ref"
+	"$envmaptint"		"[.21 .15 .07]"
+	"$envmapcontrast"		"0.800000"
+	"$model"		"1"
+}
